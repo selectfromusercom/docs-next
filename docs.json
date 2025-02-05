@@ -16,11 +16,16 @@
           {
             "group": "시작하기",
             "pages": [
-              "컨셉",
-              "설치",
-              "쿼리호출",
-              "API호출",
-              "커스텀API만들기"
+              "next/concept",
+              "next/install",
+              "next/query",
+              "next/api",
+              "next/supabase",
+              "next/vercel",
+              "next/pgsql",
+              "next/mysql",
+              "next/local-api",
+              "next/custom-api"
             ]
           },
           {
